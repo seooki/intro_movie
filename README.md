@@ -1,8 +1,14 @@
-# React + Vite
+컨셉: tmdb api를 활용한 영화 검색 사이트
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+React 사용
 
-Currently, two official plugins are available:
+styled-components 사용
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+##기능
+
+키워드 입력으로 영화 검색하기
+인기 차트 가져오기
+
+재사용성을 고려한 컴포넌트 설계
+
+vite 번들러 사용
